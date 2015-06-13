@@ -2,6 +2,7 @@ package ch1.l1;
 
 public class CPUCommander implements Runnable{
 	//±‡≥Ã÷Æ√¿1°£1
+	
 	@Override
 	public void run() {
 		// TODO Auto-generated method stub
